@@ -34,7 +34,7 @@ footprint of your code directly in CI-CD pipelines.
 
 I'm always open to collaborating on interesting projects, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanisyalahida/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://shayzle.github.io/shanisya-portfolio)
 
 ## 🎉 Fun Fact
